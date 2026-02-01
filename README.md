@@ -1,10 +1,9 @@
 # auto-change-ip-expressvpn
 Đây là tool change IP ExpressVPN do @anhduc07 phát triển.
 
-
-Đây là tool change IP ExpressVPN do @anhduc07 phát triển.
-
 HƯỚNG DẪN SỬ DỤNG
+
+Bật tool và chạy bằng quyền Administrator — nếu không sẽ báo lỗi.
 
 Interval (s):
 + Đây là khoảng thời gian tự động đổi IP, tính bằng giây.
@@ -22,6 +21,8 @@ Nếu trong quá trình sử dụng có lỗi, vui lòng liên hệ @anhduc07 đ
 This is the ExpressVPN IP changer tool developed by @anhduc07.
 
 USER GUIDE
+
+Enable the tool and run it with Administrator privileges — otherwise, it will throw an error.
 
 Interval (s):
 + The time interval for automatic IP switching (unit: seconds).
